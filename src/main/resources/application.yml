@@ -1,0 +1,6 @@
+
+n5:
+  request:
+    folder: /Users/kermit/Documents/request-folder
+  socket:
+    address: 192.168.0.127
